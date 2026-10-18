@@ -35,10 +35,10 @@
 </head>
 <body>
 
-<h1>CSS Layout "Grade"</h1>
+<h1>CSS Grid Layout</h1>
 
-<p>O módulo de layout em grade oferece um sistema de layout baseado em grade, com linhas e colunas.</p>
-<p>O módulo de layout em grade facilita a criação de páginas web complexas e responsivas sem a necessidade de flutuações ou posicionamento:</p>
+<p>O módulo de layout grid oferece um sistema de layout baseado em grade, com linhas e colunas.</p>
+<p>Esse módulo facilita a criação de páginas web complexas e responsivas sem a necessidade de flutuações ou posicionamento:</p>
 
 <div class="container">
   <div class="header"><h2>Meu Cabeçalho</h2></div>
