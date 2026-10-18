@@ -13,7 +13,7 @@ img {
 <body>
 
 <h1>Isso é um título.</h1>
-<img src="img_tree.png">
+<img src="gato_sla.jpg">
 <p>Como a imagem tem um índice z de -1, ela será colocada atrás do texto.</p>
 
 </body>
