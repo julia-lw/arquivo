@@ -42,7 +42,7 @@
 <p>Um elemento com maior ordem na pilha está sempre acima de um elemento com menor ordem na pilha.</p>
 
 <div class="container">
-  <div class="black-box">Caixa preta (z-index: 1)</div>
+  <div class="black-box">Caixa branca (z-index: 1)</div>
   <div class="gray-box">Caixa cinza (z-index: 3)</div>
   <div class="green-box">Caixa verde (z-index: 2)</div>
 </div>
